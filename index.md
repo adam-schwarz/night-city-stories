@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
@@ -9,6 +8,10 @@
     <script>
     FantasyCalendar({
       hash: '1bcdb803fdf4db6bc8ce9b2a1f29fcb8',
+      selector: 'auto',
+      settings: {
+        theme: 'red',
+      },
     });
     </script>
   </main>
